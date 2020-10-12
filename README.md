@@ -29,7 +29,7 @@ Besides the necessary adaptations to work outside Google's website, the followin
 
 1. Beautified HTML, CSS, and JS for readability purposes
 2. Moved inline CSS and JS to separate files, also for readability
-3. Restored search box and "Google Search" button, as the original 2010 Pac-Man had.
+3. Restored search box and "Google Search" button, as the original 2010 Pac-Man doodle had
 
 ## Copyrights
 
