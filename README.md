@@ -2,7 +2,13 @@
 
 Google's 30th anniversary Pac-Man doodle, extracted from the [Doodles Archive](https://www.google.com/logos/2010/pacman10-hp.html?=en), fully functional to work offline.
 
-[DEMO](https://manuel.life/download-google-pacman-play-offline/)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68722732/95759774-c6bb5100-0c6f-11eb-8310-e38bf6b0841c.jpg" alt="google-pacman" style="max-width:100%;">
+</p>
+
+<p align="center">
+  <a href="https://manuel.life/download-google-pacman-play-offline/"><strong>DEMO</strong></a>
+</p>
 
 ## Instructions
 
