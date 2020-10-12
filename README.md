@@ -35,4 +35,4 @@ Besides the necessary adaptations to work outside Google's website, the followin
 
 *PAC-MAN™ & ©1980 NAMCO BANDAI Games Inc.*
 
-*©2010 Google, LLC*
+*© 2010 Google, LLC*
